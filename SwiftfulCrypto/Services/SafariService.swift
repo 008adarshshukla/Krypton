@@ -1,8 +1,8 @@
 //
 //  SafariView.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 07/04/22.
+//  Created by Adarsh Shukla on 07/04/22.
 //
 
 import SwiftUI

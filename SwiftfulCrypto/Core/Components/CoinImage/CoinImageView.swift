@@ -1,8 +1,8 @@
 //
 //  CoinImageView.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 26/03/22.
+//  Created by Adarsh Shukla on 26/03/22.
 //
 
 import SwiftUI

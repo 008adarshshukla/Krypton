@@ -1,8 +1,8 @@
 //
 //  HomeViewModel.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 24/03/22.
+//  Created by Adarsh Shukla on 24/03/22.
 //
 
 import Foundation

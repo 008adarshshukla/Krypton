@@ -1,8 +1,8 @@
 //
 //  PortfolioDataService.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 31/03/22.
+//  Created by Adarsh Shukla on 31/03/22.
 //
 
 import Foundation

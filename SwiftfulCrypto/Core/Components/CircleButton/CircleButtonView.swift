@@ -1,8 +1,8 @@
 //
 //  CircleButtonView.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 23/03/22.
+//  Created by Adarsh Shukla on 23/03/22.
 //
 
 import SwiftUI

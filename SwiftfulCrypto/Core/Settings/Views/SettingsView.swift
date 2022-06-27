@@ -1,8 +1,8 @@
 //
 //  SettingsView.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 08/04/22.
+//  Created by Adarsh Shukla on 08/04/22.
 //
 
 import SwiftUI

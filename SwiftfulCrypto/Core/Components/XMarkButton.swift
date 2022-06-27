@@ -1,8 +1,8 @@
 //
 //  XMarkButton.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 29/03/22.
+//  Created by Adarsh Shukla on 29/03/22.
 //
 
 import SwiftUI

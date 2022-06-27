@@ -1,8 +1,8 @@
 //
 //  HapticsManager.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 27/03/22.
+//  Created by Adarsh Shukla on 27/03/22.
 //
 
 import Foundation

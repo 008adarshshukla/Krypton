@@ -1,8 +1,8 @@
 //
 //  CoinDataService.swift
-//  SwiftfulCrypto
+//  Krypton
 //
-//  Created by KANISHK VIJAYWARGIYA on 25/03/22.
+//  Created by Adarsh Shukla on 25/03/22.
 //
 
 import Foundation
