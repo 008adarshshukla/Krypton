@@ -36,7 +36,6 @@ class NetworkingManager {
             let response = output.response as? HTTPURLResponse,
             response.statusCode >= 200 && response.statusCode < 300 else {
                 throw NetworkingError.badURLResponse(url: url) //passing url, by making a parameter of url
-                //URLError(.badServerResponse)
             }
         return output.data
     }
@@ -52,4 +51,4 @@ class NetworkingManager {
     }
 }
 
-// we have created a static func, so that we never required to initialize the class, we can call NetworkingManager.download ...if use regular func, then we need to initialize an instance of a class to access this.
+//static function allows us to use them without creating the object of the class.
