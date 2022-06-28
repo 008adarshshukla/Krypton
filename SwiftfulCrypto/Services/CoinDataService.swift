@@ -29,12 +29,6 @@ class CoinDataService {
                 self.allCoins = returnedCoins
                 self.coinSubsciption?.cancel()
             })
-        //            .replaceError(with: [])
-        //            .sink { [weak self] returnedCoins in
-        //                guard let self = self else { return }
-        //                self.allCoins = returnedCoins
-        //                self.coinSubsciption?.cancel()
-        //            }
     }
 }
 
